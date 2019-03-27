@@ -1393,15 +1393,18 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #149dcc;
 }
+.cid-qTkA127IK8 {
+  background-image: url("../../../assets/images/background4.jpg");
+}
 .cid-qTkA127IK8 I {
-  color: #ff0000;
+  color: #efefef;
 }
 .cid-qTkA127IK8 H1 {
   text-align: center;
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
-  color: #ff0000;
+  color: #ffffff;
 }
 .cid-rlWzbQ2bPg {
   padding-top: 0px;
